@@ -58,7 +58,7 @@ forward_reward_weight	2.1	鼓励前进运动（对抗静止）
 # 直接运行
 python script.py
 
-# 监控训练（在另一个终端）
+# 监控训练
 tensorboard --logdir ./logs
 监控指标:
 
